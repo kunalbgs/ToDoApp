@@ -42,7 +42,7 @@ Any Java IDE (IntelliJ, Eclipse, or VS Code)
 
 2️⃣ Steps
 # Clone the repository
-git clone https://github.com/<your-username>/ToDoApp.git
+git clone https://github.com/kunalbgs/ToDoApp.git
 
 # Navigate to project directory
 cd ToDoApp
